@@ -9,6 +9,9 @@ __pycache__/
 # pycharm stuffs
 .idea
 
+# django stuffs
+web_forum_project/settings.py
+
 # Distribution / packaging
 .Python
 build/
